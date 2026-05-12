@@ -11,7 +11,7 @@
     "db:studio": "npx drizzle-kit studio"
   },
   "dependencies": {
-    "@clerk/nextjs": "^5.7.5",
+    "@clerk/nextjs": "^4.29.9",
     "@google/generative-ai": "^0.21.0",
     "@headlessui/react": "^2.2.0",
     "@heroicons/react": "^2.1.5",
